@@ -105,7 +105,7 @@ type EvidenceData struct {
 
 #### Evidence
 
-`Evidence` represents a go-interface (or oneof in protobuf) of known set of concrete fraud-proofs.
+`Evidence` represents a go-interface (or one of in protobuf) of known set of concrete fraud-proofs.
 The details for this will be defined in a separated adr/PR.
 
 Here is an incomplete list of potential evidence types:
